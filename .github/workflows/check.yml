@@ -15,7 +15,7 @@ jobs:
         include:
           - model: "SCG09"
             csc: "KDI"
-            omc: "KDD"
+            omc: "QDI"
             imei: "356953790534002"
 
     steps:
