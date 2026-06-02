@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 12 * * *"
+  push:
 
 jobs:
   update:
@@ -17,6 +18,10 @@ jobs:
             csc: "KDI"
             omc: "QDI"
             imei: "356953790534002"
+          - model: "SC-51B"
+            csc: "DCM"
+            omc: "DCM"
+            imei: "359013770919561"
 
     steps:
       - name: Checkout repo
