@@ -22,6 +22,22 @@ jobs:
             csc: "DCM"
             omc: "DCM"
             imei: "359013770919561"
+          - model: "SM-G991Q"
+            csc: "SJP"
+            omc: "QOP"
+            imei: "353528230155858"
+          - model: "SM-G9910"
+            csc: "CHC"
+            omc: "CHC"
+            imei: "358721970607627"
+          - model: "SM-G991U"
+            csc: "CHA"
+            omc: "OYN"
+            imei: "359859310939620"
+          - model: "SM-G991W"
+            csc: "BMC"
+            omc: "OYV"
+            imei: "350305810002468"
 
     steps:
       - name: Checkout repo
