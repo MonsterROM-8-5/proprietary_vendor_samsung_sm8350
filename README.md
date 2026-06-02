@@ -7,3 +7,4 @@ To [download](https://github.com/MonsterROM-8-5/proprietary_vendor_samsung_sm835
 
 ### Credits
 - [@jesec](https://github.com/jesec) and [@corsicanu](https://github.com/corsicanu) for the original GitHub Actions script.
+- [UN1CA](https://github.com/UN1CA) for the inspo to this repo :3
